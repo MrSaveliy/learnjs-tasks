@@ -1,1 +1,1 @@
-# learnjs-tasks - these are the solved tasks for the textbook: https://learn.javascript.ru
+# learnjs-tasks - this is the repository where the solved tasks from the tutorial are located: https://learn.javascript.ru.
